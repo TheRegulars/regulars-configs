@@ -1,0 +1,3 @@
+csprogs*	http://dl.xonotic.in.ua/csprogs/
+
+*	http://dl.xonotic.co/
