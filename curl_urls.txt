@@ -1,3 +1,4 @@
-csprogs*	http://dl.xonotic.in.ua/csprogs/
-
-*	http://dl.xonotic.co/
+csprogs*	                  http://dl.regulars.win/csprogs/
+q3-xonotic_compatpack_v1.pk3  http://dl.regulars.win/
+nexus.pk3                     http://dl.regulars.win/
+*	                          http://dl.xonotic.co/
