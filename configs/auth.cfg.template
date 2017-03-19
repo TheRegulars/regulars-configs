@@ -1,0 +1,5 @@
+// set paswords in this file
+rcon_password "${RCON_PASSWORD}"
+rcon_secure 1
+sv_vote_master_callable 0	
+sv_vote_master_password "${RCON_PASSWORD}"
