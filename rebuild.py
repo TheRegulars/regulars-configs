@@ -24,6 +24,8 @@ def update_auth_file(new_data):
     with open(auth_path, "w") as f:
         f.write(new_data)
 
+    os.chmod(auth_path, 0o0600)
+
 
 def main():
 
