@@ -31,10 +31,10 @@ def main():
 
     if 'RCON_PASSWORD' not in os.environ:
         print("Please define RCON_PASSWORD environment variable")
-        return 1
+        sys.exit(1)
 
     auth_template_path = os.path.join(BASE_PATH, "configs", "auth.cfg.template")
-    auth_template = Template(filename=auth_template_path, strict_undefined=True)
+    auth_template = Template(filename=auth_template_path, strict_undefined=False)
     try:
         auth_file = auth_template.render(**filtered_environment())
     except NameError as exc:
