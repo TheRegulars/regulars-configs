@@ -2,6 +2,8 @@
 
 This repo contains config files for regulars xonotic servers.
 
+**NOTE**: if you're going to use this configs for your own server, please rename server hostname.
+
 # Servers
 
 * [Regulars Public](http://stats.xonotic.org/server/436): pub.regulars.win
