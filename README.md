@@ -4,6 +4,19 @@ This repo contains config files for regulars xonotic servers.
 
 **NOTE**: if you're going to use this configs for your own server, please rename server hostname.
 
+## Using locally
+
+You can use these settings to play locally. Just clone these settings into your data folder
+(e.g. on linux it's  `~/.xonotic/data/`) and type these commands in xon console:
+
+```
+exec regulars-configs/configs/server-mars.cfg
+insta_ctf
+map dance
+```
+
+Instead of `dance` you can use any map you like, but this map needs to be in your data path as well.
+
 # Servers
 
 * [Regulars Public](http://stats.xonotic.org/server/436): pub.regulars.win
