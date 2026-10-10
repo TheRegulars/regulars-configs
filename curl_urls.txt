@@ -1,2 +1,2 @@
-csprogs*	                  http://dl.regulars.win/csprogs/
-*	                          http://dl.regulars.win/maps/
+csprogs*	                  https://dl.regulars.win/csprogs/
+*	                          https://dl.regulars.win/maps/
